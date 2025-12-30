@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         百度指数嗅探导出 (V4.0 日期修正版)
+// @name         Catweb(百度指数嗅探导出)
 // @namespace    http://tampermonkey.net/
-// @version      4.0
+// @version      1.0
 // @description  自动嗅探，自动解密，自动生成真实日期序列 (支持日/周级数据)，一键导出 CSV
-// @author       Gemini & You
+// @author       Gemini & Ask-Suzumi
 // @match        *://index.baidu.com/*
 // @grant        none
 // @run-at       document-start
@@ -247,5 +247,6 @@
     }
 
     window.addEventListener('load', createUI);
+
 
 })();
