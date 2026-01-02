@@ -4,6 +4,7 @@
 
 本插件采用**非侵入式嗅探技术**，自动拦截浏览器与百度服务器之间的通信，提取加密数据与解密秘钥，在本地（浏览器端）瞬间完成解密与清洗，并一键生成带有**真实日期时间轴**的 CSV 报表。
 
+##视频教程：https://www.bilibili.com/video/BV1XKvZBTESg/?spm_id_from=333.1007.top_right_bar_window_dynamic.content.click&vd_source=3e28ec8d2ef7d37302c7698b1aa41b48
 ## ✨ 核心功能 (Features)
 
 * **🛡️ 全自动嗅探**：无需手动 F12 抓包，脚本自动监听后台网络请求。
